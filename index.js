@@ -1240,22 +1240,19 @@ const HTML_PAGE = `
                 <p class="promotion-subtitle">关注我们获取更多AI工具和技术分享</p>
             </div>
             <div class="promotion-content">
-                <div class="qr-code">
-                    <img src="https://img.996007.icu/file/img1/a48c4eac2f2a99909da5611c3885726.jpg" alt="微信公众号二维码" />
-                </div>
                 <div class="promotion-info">
-                    <h3>关注「一只会飞的旺旺」公众号</h3>
-                    <p>获取更多实用的AI工具、技术教程和独家资源分享</p>
+                    <h3>关注「灰狐云互联」微信号agrayfox0227</h3>
+                    <p>获取更多实用的AI工具、技术教程和海外专线节点</p>
                     <ul class="benefits-list">
                         <li>最新AI工具推荐和使用教程</li>
-                        <li>前沿技术解析和实战案例</li>
+                        <li>海外高速IEPL专线节点</li>
                         <li>独家资源和工具源码分享</li>
                         <li>技术问题答疑和交流社群</li>
                     </ul>
                 </div>
             </div>
         </div>
-    </div>
+    </div> 
 
     <script>
         let selectedFile = null;
